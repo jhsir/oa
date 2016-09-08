@@ -1,0 +1,1 @@
+INSERT INTO `app_user` VALUES ('1', '1', 'admin', null, 'admin', '872862187@qq.com', null, null, null, null, null, null, null, null, null, null, null, null);
